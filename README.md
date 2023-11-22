@@ -1,7 +1,7 @@
 ## Olá, caro gafanhoto! Sou o Oz Menezes✌🏻✨
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@ozmenezes) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oz-menezes-8b8297246/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oz.menezes/) 
 
-![Oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozmenezes&show_icons=true&theme=cobalt)
+![Oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitdooz&show_icons=true&theme=cobalt)
 
 ### Tecnologias que estou aprendendo atualmente
 <div style="display: inline_block"><br/>
