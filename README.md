@@ -6,7 +6,7 @@
   
 <div align='center'> 
   
-  ## Olá! Eu sou Osmar Menezes]
+  ## Olá! Eu sou Osmar Menezes
 <div>
   🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.<br/>
   📊 💵 Futuro Analista de Dados com foco Finanças.<br/>
