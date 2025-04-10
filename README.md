@@ -35,9 +35,6 @@
 </div>
  <br>
 
-<!-- Contador de Visitantes -->
----
-
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D36B00&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
