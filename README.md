@@ -2,10 +2,12 @@
 Instagram: [@osmar.csv](https://www.instagram.com/osmar.csv/#)<br/>
 LinkedIn: [Osmar Menezes](https://www.linkedin.com/in/osmar-menezes-8b8297246/)<br/>
 
-🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.<br/>
-📊 💵 Futuro Analista de Dados com foco Finanças.<br/>
-💰 📈 Crio dashboards automatizados e de fácil usabilidade.<br/> 
-⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!<br/>
+<div>
+  🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.<br/>
+  📊 💵 Futuro Analista de Dados com foco Finanças.<br/>
+  💰 📈 Crio dashboards automatizados e de fácil usabilidade.<br/> 
+  ⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!<br/>
+<div/>
 
 ![Oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitdooz&show_icons=true&theme=cobalt)
 
