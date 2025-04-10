@@ -9,13 +9,6 @@ LinkedIn: [Osmar Menezes](https://www.linkedin.com/in/osmar-menezes-8b8297246/)<
 
 ![Oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitdooz&show_icons=true&theme=cobalt)
 
-### Tecnologias que estou aprendendo atualmente
-<div style="display: inline_block"><br/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
-</div>
-
-
-### Tecnologias que domino
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
