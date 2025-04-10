@@ -5,7 +5,9 @@
 <div>
   
 <div align='center'> 
-  ## Olá! Eu sou Osmar Menezes
+  
+  ## Olá! Eu sou Osmar Menezes<br/>
+  ---
   🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.<br/>
   📊 💵 Futuro Analista de Dados com foco Finanças.<br/>
   💰 📈 Crio dashboards automatizados e de fácil usabilidade.<br/> 
