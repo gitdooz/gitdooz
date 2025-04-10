@@ -5,7 +5,7 @@
 📊 💵 Futuro Analista de Dados com foco Finanças.
 💰 📈 Crio dashboards automatizados e de fácil usabilidade. 
 ⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!
-https://img.shields.io/badge/logo-instagram-pink?logo=instagram
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
 <a href="https://www.linkedin.com/in/o" target="_blank">
   <img align="center" alt""src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
