@@ -1,5 +1,5 @@
 ## Hello World! Me chamo Osmar Menezes✌🏻✨
-Instagram: [@osmar.csv](https://www.instagram.com/osmar.csv/#)
+Instagram: [@osmar.csv](https://www.instagram.com/osmar.csv/#)<br/>
 LinkedIn: [Osmar Menezes](https://www.linkedin.com/in/osmar-menezes-8b8297246/)<br/>
 
 🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.<br/>
