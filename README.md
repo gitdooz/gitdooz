@@ -5,8 +5,7 @@
 📊 💵 Futuro Analista de Dados com foco Finanças.
 💰 📈 Crio dashboards automatizados e de fácil usabilidade. 
 ⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)]
-
+[![Instagram](file:///C:/Users/1241303735/Downloads/Instagram_logo_2022.svg)](wwww.instagram.com/osmar.csv)
 
 ![Oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitdooz&show_icons=true&theme=cobalt)
 
