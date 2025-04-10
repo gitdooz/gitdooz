@@ -12,9 +12,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/larialbu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <a href="https://github.com/gitdooz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitdooz&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitdooz&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 
@@ -25,7 +25,6 @@
   <img  alt="Lari-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
   <img  alt="Lari-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
   <img  alt="Lari-SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-  <img alt="Lari-SQLLIte" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
 </div>
  <br>
 
