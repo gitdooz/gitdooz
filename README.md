@@ -1,10 +1,10 @@
 ## Hello World! Me chamo Osmar Menezes✌🏻✨
 [![Instagram]()](file:///C:/Users/1241303735/Downloads/instagram.svg)
 
-🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.
-📊 💵 Futuro Analista de Dados com foco Finanças.
-💰 📈 Crio dashboards automatizados e de fácil usabilidade. 
-⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!
+🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.<br/>
+📊 💵 Futuro Analista de Dados com foco Finanças.<br/>
+💰 📈 Crio dashboards automatizados e de fácil usabilidade.<br/> 
+⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!<br/>
 https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
 <a href="https://www.linkedin.com/in/o" target="_blank">
