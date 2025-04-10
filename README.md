@@ -1,5 +1,12 @@
-## Olá, caro gafanhoto! Sou o Osmar Menezes✌🏻✨
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@ozmenezes) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oz-menezes-8b8297246/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oz.menezes/) 
+## Hello World! Me chamo Osmar Menezes✌🏻✨
+[Instagram]()
+
+🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.
+📊 💵 Futuro Analista de Dados com foco Finanças.
+💰 📈 Crio dashboards automatizados e de fácil usabilidade. 
+⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)]
+
 
 ![Oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitdooz&show_icons=true&theme=cobalt)
 
