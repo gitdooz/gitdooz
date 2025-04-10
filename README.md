@@ -35,18 +35,6 @@
  <br>
 
 <!-- Contador de Visitantes -->
-<div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larialbu}/count.svg" /></p> 
-  <br>
-</div>
-
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 <!-- Parte inferior da página -->
