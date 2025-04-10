@@ -2,7 +2,7 @@
 Instagram: [@osmar.csv](https://www.instagram.com/osmar.csv/#)<br/>
 LinkedIn: [Osmar Menezes](https://www.linkedin.com/in/osmar-menezes-8b8297246/)<br/>
 
-<div>
+<div align='center'>
   🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.<br/>
   📊 💵 Futuro Analista de Dados com foco Finanças.<br/>
   💰 📈 Crio dashboards automatizados e de fácil usabilidade.<br/> 
