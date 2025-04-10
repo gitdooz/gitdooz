@@ -1,16 +1,10 @@
 ## Hello World! Me chamo Osmar Menezes✌🏻✨
-[![Instagram]()](file:///C:/Users/1241303735/Downloads/instagram.svg)
+[@osmar.csv](www.instagram.com/osmar.csv)
 
 🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.<br/>
 📊 💵 Futuro Analista de Dados com foco Finanças.<br/>
 💰 📈 Crio dashboards automatizados e de fácil usabilidade.<br/> 
 ⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!<br/>
-https://img.shields.io/badge/logo-javascript-blue?logo=javascript
-
-<a href="https://www.linkedin.com/in/o" target="_blank">
-  <img align="center" alt""src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
-
 
 ![Oz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitdooz&show_icons=true&theme=cobalt)
 
