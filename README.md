@@ -1,16 +1,16 @@
 ## Hello World! Me chamo Osmar Menezes✌🏻✨
-[Instagram]()
+[![Instagram]()](file:///C:/Users/1241303735/Downloads/instagram.svg)
 
 🖥️ 🧑‍💻 Estudante de Análise e Desenvolvimento de Sistemnas.
 📊 💵 Futuro Analista de Dados com foco Finanças.
 💰 📈 Crio dashboards automatizados e de fácil usabilidade. 
 ⚡ 🚀 Me esforçando diariamente para alcançar o meu objetivo!
 <a href="https://www.instagram.com/osmar.csv" target="_blank">
-  <img src="file:///C:/Users/1241303735/Downloads/instagram.svg" alt="Instagram" width="30" height="30"/>
+  <img src="" alt="Instagram" width="30" height="30"/>
 </a>
 
 <a href="https://www.linkedin.com/in/o" target="_blank">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  <img align="center" alt""src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 
 
